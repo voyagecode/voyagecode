@@ -7,12 +7,12 @@
 *17-18yrs old (building phase):*
  -   decided i do like the web :) and the quick rapid impact it can create
    
-**[Bingewatch](bingewatch.vercel.com)** 
+**[watchrooms](watchrooms.vercel.com)** 
  -   built a web application using which people can <ins>play media files (e.g. mp4) in	sync with their friend </ins> (if it present on both devices locally) and enjoy it with a live video call connection 
  - any data about the media does not  reach to server except duration of media
  - added more features as time passed by
 
-**[EchoChat](bingewatch.vercel.com)** 
+**[EchoChat](echochat.vercel.com)** 
  -   built an <ins>online live chat room platform for discussing and enjoying big events across the globe such as (ufc,nba,nfl,cricket,football games)</ins>
  - <ins>added bunch of features</ins> such as upvotes in live chat , creating custom events dashboard for trending events and subscribing to the event
  
